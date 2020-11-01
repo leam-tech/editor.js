@@ -592,12 +592,12 @@ export default class Block {
         Tune: MoveUpTune,
       },
       {
-        name: 'delete',
-        Tune: DeleteTune,
-      },
-      {
         name: 'moveDown',
         Tune: MoveDownTune,
+      },
+      {
+        name: 'delete',
+        Tune: DeleteTune,
       },
     ];
 
