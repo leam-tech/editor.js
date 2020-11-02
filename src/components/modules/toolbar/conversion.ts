@@ -161,7 +161,7 @@ export default class ConversionToolbar extends Module<ConversionToolbarNodes> {
   public hasTools(): boolean {
     const tools = Object.keys(this.tools); // available tools in array representation
 
-    return !(tools.length === 1 && tools.shift() === this.config.defaultBlock);
+    return false;
   }
 
   /**
