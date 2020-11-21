@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.19.1
+
+- `Fix` - The problem with destroy() method [#1380](https://github.com/codex-team/editor.js/issues/1380).
+- `Fix` - add getter keyword to `block.mergeable` method [#1415](https://github.com/codex-team/editor.js/issues/1415).
+- `Fix` — Fix problem with entering to Editor.js by Tab key [#1393](https://github.com/codex-team/editor.js/issues/1393)
+
 ### 2.19
 
 - `New` - Read-only mode 🥳 [#837](https://github.com/codex-team/editor.js/issues/837)
